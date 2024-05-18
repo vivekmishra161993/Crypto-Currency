@@ -31,8 +31,7 @@ Prerequisites
 # Installation
 Clone the repository:
 
-bash
-Copy code
+- Copy code
 git clone https://github.com/vivekmishra161993/Crypto-Currency.git
 Open the project in Android Studio.
 
